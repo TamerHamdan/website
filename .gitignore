@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Node.js (web development)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# VS Code
+.vscode/
+
+# Operating System files
+*.log
+*.swp
+
+# Environment files
+.env
+
+# Build directories
+dist/
+build/
+
+# Webpack
+/.cache/
+
+# System files
+*.bak
+*.tmp
