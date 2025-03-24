@@ -40,3 +40,7 @@ header {
 hr{
     opacity: 10%;
 }
+
+ul {
+    font-family: "poppins", serif;
+}
